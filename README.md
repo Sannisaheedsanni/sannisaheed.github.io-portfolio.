@@ -1,1 +1,4 @@
-# sannisaheed.github.io-portfolio.
+# DATA ANALYST
+
+## EDUCATION
+Industrial Engineering,Bsc
