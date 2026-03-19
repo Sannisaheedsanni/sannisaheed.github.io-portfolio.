@@ -7,22 +7,18 @@
 
 ---
 
-## 🙋 About Me
+##  About Me
 
 I'm a Data Analyst with a background in Industrial Engineering, focused on delivering insights that drive real business impact. I specialize in transforming complex, messy data into structured, decision-ready outputs using Excel, SQL, and Tableau.
 
 With a strong foundation in systems thinking and performance analysis, I go beyond reporting — identifying inefficiencies, uncovering opportunities, and translating data into clear, actionable strategies.
 
-- 💼 Data Cleansing Officer at **OmniBSIC Bank**
-- 🔍 Reviewed and validated **70,000+ customer records** for regulatory compliance
-- 📊 Passionate about clean data, dashboards, and clear storytelling
-- 💬 Ask me about **SQL, Excel, Data Cleaning, or Tableau**
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-| | Tool |
+| icon | Tool |
 |---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> | **PostgreSQL** |
 | <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30"/> | **Microsoft Excel** |
@@ -39,35 +35,71 @@ With a strong foundation in systems thinking and performance analysis, I go beyo
 
 ---
 
-## 🚀 Projects
+## My Projects
 
-### 📱 Mobile Money Payment Failure Analysis — PayFlow GH
+<table>
+<tr>
 
-<!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to your repo -->
-![PayFlow GH](YOUR_SCREENSHOT_URL)
+<td width="50%" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px;">
+
+<h3 align="center">Mobile Money Payment Failure Analysis</h3>
+
+<!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to repo -->
+<a href="https://github.com/Sannisaheedsanni/Mobile-Money-Payment-Failure-Analysis-PayFlow-GH">
+<img src="YOUR_SCREENSHOT_URL" width="100%" alt="PayFlow GH"/>
+</a>
+
+<br/><br/>
 
 Analysed mobile money payment failures in Ghana — investigating failure patterns, identifying root causes, and providing actionable recommendations to improve transaction success rates.
+
+<br/><br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0d9e6e?style=flat-square)
 ![EDA](https://img.shields.io/badge/EDA-e67e22?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/View%20Project-222222?style=for-the-badge)](https://github.com/Sannisaheedsanni/Mobile-Money-Payment-Failure-Analysis-PayFlow-GH)
+<br/><br/>
 
----
+<p align="center">
+<a href="https://github.com/Sannisaheedsanni/Mobile-Money-Payment-Failure-Analysis-PayFlow-GH">
+<img src="https://img.shields.io/badge/View%20Project-222222?style=for-the-badge&logoColor=white"/>
+</a>
+</p>
 
-### 📊 Sales Dashboard Analysis
+</td>
 
-<!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to your repo -->
-![Sales Dashboard](YOUR_SCREENSHOT_URL)
+<td width="50%" valign="top" style="border:1px solid #ddd; border-radius:8px; padding:16px;">
+
+<h3 align="center">Sales Dashboard Analysis</h3>
+
+<!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to repo -->
+<a href="https://github.com/Sannisaheedsanni/Sales-Dashboard-Analysis">
+<img src="YOUR_SCREENSHOT_URL" width="100%" alt="Sales Dashboard"/>
+</a>
+
+<br/><br/>
 
 A comprehensive sales performance dashboard that visualises key metrics, tracks trends over time, and surfaces insights to support data-driven sales strategy.
+
+<br/><br/>
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Dashboard-3b5bdb?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/View%20Project-222222?style=for-the-badge)](https://github.com/Sannisaheedsanni/Sales-Dashboard-Analysis)
+<br/><br/>
+
+<p align="center">
+<a href="https://github.com/Sannisaheedsanni/Sales-Dashboard-Analysis">
+<img src="https://img.shields.io/badge/View%20Project-222222?style=for-the-badge&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -80,16 +112,16 @@ A comprehensive sales performance dashboard that visualises key metrics, tracks 
 
 ---
 
-## 📬 Contact
+## Contact
 
 | | |
 |---|---|
 | 📧 Email | [Sannisaheedjunior18@gmail.com](mailto:Sannisaheedjunior18@gmail.com) |
 | 📞 Phone | +233 506 133 370 |
-| 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE) |
-| 🐙 GitHub | [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni) |
+| LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE) |
+| GitHub | [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni) |
 | 📄 CV | [Download My CV](YOUR_CV_LINK) |
-| 📍 Location | Accra, Ghana |
+|  Location | Accra, Ghana |
 
 ---
 
