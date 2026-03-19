@@ -1,2 +1,12 @@
 /* Hide repo URL from header */
-header p.view { display: none !important; }
+@import "{{ site.theme }}";
+
+/* Hide the repo URL completely */
+header p,
+header p.view,
+header p.view a,
+header ul,
+header li {
+  display: none !important;
+  visibility: hidden !important;
+}
