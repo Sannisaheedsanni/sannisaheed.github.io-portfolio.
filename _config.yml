@@ -1,6 +1,7 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: yous/whiteglass
+
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
+  - jekyll-feed
 title: Sanni Saheed
 description: [A short description of your site's purpose]
