@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="Screenshot 2026-03-05 at 5.16.04 PM.png" width="150" style="border-radius:50%;" alt="Sanni Saheed"/>
-  <br/>
-  <h1>Sanni Saheed</h1>
-  <em>Data Analyst &nbsp;|&nbsp; Turning raw data into decisions that matter.</em>
+  <img src="Screenshot 2026-03-05 at 5.16.04 PM.png" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Sanni Saheed"/>
 </p>
+
+<h1 align="center">Sanni Saheed</h1>
+<p align="center"><em>Data Analyst &nbsp;|&nbsp; Turning raw data into decisions that matter.</em></p>
 
 ---
 
@@ -13,44 +13,35 @@ I'm a Data Analyst with a background in Industrial Engineering, focused on deliv
 
 With a strong foundation in systems thinking and performance analysis, I go beyond reporting — identifying inefficiencies, uncovering opportunities, and translating data into clear, actionable strategies.
 
+- 💼 Data Cleansing Officer at **OmniBSIC Bank**
+- 🔍 Reviewed and validated **70,000+ customer records** for regulatory compliance
+- 📊 Passionate about clean data, dashboards, and clear storytelling
+- 💬 Ask me about **SQL, Excel, Data Cleaning, or Tableau**
+
 ---
 
 ## 🛠️ Skills
 
-<p align="center">
+| | Tool |
+|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> | **PostgreSQL** |
+| <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30"/> | **Microsoft Excel** |
+| <img src="https://img.icons8.com/color/48/google-sheets.png" width="30"/> | **Google Sheets** |
+| <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30"/> | **Tableau** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> | **GitHub** |
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/microsoft-excel-2019--v1.png" width="50" title="Microsoft Excel"/>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/google-sheets.png" width="50" title="Google Sheets"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" title="Tableau"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-
-</p>
-
-<p align="center">
-  <b>PostgreSQL</b> &nbsp;&nbsp;&nbsp;
-  <b>Excel</b> &nbsp;&nbsp;&nbsp;
-  <b>Google Sheets</b> &nbsp;&nbsp;&nbsp;
-  <b>Tableau</b> &nbsp;&nbsp;&nbsp;
-   <b>GitHub</b>
-</p>
-
-**Concepts:** 
-- Data Cleaning & Validation 
-- Data Documentation & Reporting  
-- Regulatory & Compliance Analysis 
-- Cross-functional Collaboration 
+**Concepts:**
+- Data Cleaning & Validation
+- Data Documentation & Reporting
+- Regulatory & Compliance Analysis
+- Cross-functional Collaboration
 - Analytical Thinking & Research
 
 ---
 
-## My Projects
+## 🚀 Projects
 
-###  Mobile Money Payment Failure Analysis — PayFlow GH
+### 📱 Mobile Money Payment Failure Analysis — PayFlow GH
 
 <!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to your repo -->
 ![PayFlow GH](YOUR_SCREENSHOT_URL)
