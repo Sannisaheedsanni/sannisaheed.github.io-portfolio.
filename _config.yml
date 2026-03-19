@@ -1,5 +1,6 @@
-remote_theme: yaoyao-liu/minimal-light
+remote_theme: mmistakes/minimal-mistakes
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-include-cache
 title: Sanni Saheed
 description: [A short description of your site's purpose]
