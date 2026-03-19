@@ -1,7 +1,9 @@
-remote_theme: yous/whiteglass
 
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-title: Sanni Saheed
-description: [A short description of your site's purpose]
+
+title: "Sanni Saheed"
+description: "Data Analyst"
+logo: 
