@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Sanni Saheed 👋</h1>
 
-<p align="center">
-  <em>Data Analyst &nbsp;|&nbsp; Turning raw data into decisions that matter.</em>
-</p>
+
 
 ---
 
@@ -11,6 +9,8 @@
 I’m a Data Analyst with a background in Industrial Engineering, focused on delivering insights that drive real business impact. I specialize in transforming complex, messy data into structured, decision-ready outputs using Excel, SQL, and Tableau.
 
 With a strong foundation in systems thinking and performance analysis, I go beyond reporting—identifying inefficiencies, uncovering opportunities, and translating data into clear, actionable strategies.
+
+
 ---
 
 ## 🛠️ Skills
@@ -19,10 +19,10 @@ With a strong foundation in systems thinking and performance analysis, I go beyo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Core Competencies
 - ✅ Data Cleaning & Validation
@@ -33,7 +33,7 @@ With a strong foundation in systems thinking and performance analysis, I go beyo
 
 ---
 
-## 🚀 Projects
+## My Projects
 
 <table>
   <tr>
