@@ -1,6 +1,5 @@
 # Hi there, I'm Sanni Saheed 👋
 
-> *Data Analyst | Turning raw data into decisions that matter.*
 
 ---
 
