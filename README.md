@@ -1,13 +1,8 @@
-## 🙋 About Me
+##  About Me
 
-I'm a **Data Analyst** based in **Accra, Ghana**, with hands-on experience in data quality, regulatory compliance, and business intelligence. I specialise in detecting inconsistencies, improving data accuracy, and helping organisations make smarter, data-informed decisions.
+I’m a Data Analyst with a background in Industrial Engineering, focused on delivering insights that drive real business impact. I specialize in transforming complex, messy data into structured, decision-ready outputs using Excel, SQL, and Tableau.
 
-With a strong foundation in systems thinking and performance analysis, I go beyond reporting — identifying inefficiencies, uncovering opportunities, and translating data into clear, actionable strategies.
-
-- 💼 Data Cleansing Officer at **OmniBSIC Bank**
-- 🔍 Reviewed and validated **70,000+ customer records** for regulatory compliance
-- 📊 Passionate about clean data, dashboards, and clear storytelling
-- 💬 Ask me about **SQL, Excel, Data Cleaning, or Tableau**
+With a strong foundation in systems thinking and performance analysis, I go beyond reporting—identifying inefficiencies, uncovering opportunities, and translating data into clear, actionable strategies.
 
 ---
 
@@ -19,20 +14,20 @@ With a strong foundation in systems thinking and performance analysis, I go beyo
 
 **Tools & Platforms**
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Core Competencies**
+**Concepts**
 
-<div class="comp-tags">
-  <span class="comp-tag">✅ Data Cleaning & Validation</span>
-  <span class="comp-tag">✅ Data Documentation & Reporting</span>
-  <span class="comp-tag">✅ Regulatory & Compliance Analysis</span>
-  <span class="comp-tag">✅ Cross-functional Collaboration</span>
-  <span class="comp-tag">✅ Analytical Thinking & Research</span>
-</div>
+
+- Data Cleaning & Validation
+- Data Documentation & Reporting
+- Regulatory & Compliance Analysis
+- Functional Collaboration
+- Analytical Thinking & Research
+
 
 ---
 
