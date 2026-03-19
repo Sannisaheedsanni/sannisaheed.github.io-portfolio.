@@ -2,3 +2,7 @@
 title: Sanni Saheed
 logo: Screenshot 2026-03-05 at 5.16.04 PM.png
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
+
