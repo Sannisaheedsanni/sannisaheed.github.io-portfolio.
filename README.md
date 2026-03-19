@@ -1,85 +1,122 @@
-<!--Section 1: Introduce your self-->
-## ABOUT ME
+## 🙋 About Me
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+I'm a **Data Analyst** based in **Accra, Ghana**, with hands-on experience in data quality, regulatory compliance, and business intelligence. I specialise in detecting inconsistencies, improving data accuracy, and helping organisations make smarter, data-informed decisions.
 
+With a strong foundation in systems thinking and performance analysis, I go beyond reporting — identifying inefficiencies, uncovering opportunities, and translating data into clear, actionable strategies.
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+- 💼 Data Cleansing Officer at **OmniBSIC Bank**
+- 🔍 Reviewed and validated **70,000+ customer records** for regulatory compliance
+- 📊 Passionate about clean data, dashboards, and clear storytelling
+- 💬 Ask me about **SQL, Excel, Data Cleaning, or Tableau**
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+---
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+## 🛠️ Skills
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**Languages & Querying**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+**Tools & Platforms**
 
-*A glimpse of some of the projects I've been working on.*
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Core Competencies**
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+<div class="comp-tags">
+  <span class="comp-tag">✅ Data Cleaning & Validation</span>
+  <span class="comp-tag">✅ Data Documentation & Reporting</span>
+  <span class="comp-tag">✅ Regulatory & Compliance Analysis</span>
+  <span class="comp-tag">✅ Cross-functional Collaboration</span>
+  <span class="comp-tag">✅ Analytical Thinking & Research</span>
+</div>
 
+---
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+## 🚀 Projects
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+<div class="project-grid">
 
-![image](2 anietie etuk data analytics sales project.jpg)
+  <div class="project-card">
+    <div class="screenshot-placeholder">📸 Add screenshot</div>
+    <!-- Once you have a screenshot, replace the line above with:
+    <img src="YOUR_IMAGE_URL" alt="PayFlow GH"/> -->
+    <div class="card-body">
+      <h3>📱 Mobile Money Payment Failure Analysis — PayFlow GH</h3>
+      <p>Analysed mobile money payment failures in Ghana — investigating failure patterns, identifying root causes, and providing actionable recommendations to improve success rates.</p>
+      <div class="tags">
+        <span class="tag">PostgreSQL</span>
+        <span class="tag">Data Cleaning</span>
+        <span class="tag">EDA</span>
+      </div>
+      <a class="btn" href="https://github.com/Sannisaheedsanni/Mobile-Money-Payment-Failure-Analysis-PayFlow-GH" target="_blank">📖 Read More</a>
+    </div>
+  </div>
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+  <div class="project-card">
+    <div class="screenshot-placeholder">📸 Add screenshot</div>
+    <!-- Once you have a screenshot, replace the line above with:
+    <img src="YOUR_IMAGE_URL" alt="Sales Dashboard"/> -->
+    <div class="card-body">
+      <h3>📊 Sales Dashboard Analysis</h3>
+      <p>A comprehensive sales performance dashboard that visualises key metrics, tracks trends over time, and surfaces insights to support data-driven sales strategy.</p>
+      <div class="tags">
+        <span class="tag">Excel</span>
+        <span class="tag">Tableau</span>
+        <span class="tag">Dashboard Design</span>
+      </div>
+      <a class="btn" href="https://github.com/Sannisaheedsanni/Sales-Dashboard-Analysis" target="_blank">📖 Read More</a>
+    </div>
+  </div>
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+</div>
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+---
 
-![image](3 anietie etuk data analytics agro project.jpg)
+## 🏅 Certifications
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+| Certificate | Issuer | Link |
+|---|---|---|
+| Intermediate SQL Certification | HackerRank | [View Certificate](YOUR_HACKERRANK_CERT_LINK) |
+| SQL Association Track Course | DataCamp | [View Certificate](YOUR_DATACAMP_CERT_LINK) |
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+---
 
+## 📬 Contact
 
-## CONTACT DETAILS
+<div class="contact-grid">
 
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 816-763-7212</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>PH, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+  <a class="contact-item" href="mailto:Sannisaheedjunior18@gmail.com">
+    <span class="contact-icon">📧</span>
+    <div><span class="contact-label">Email</span><span class="contact-value">Sannisaheedjunior18@gmail.com</span></div>
+  </a>
 
-   
+  <a class="contact-item" href="tel:+233506133370">
+    <span class="contact-icon">📞</span>
+    <div><span class="contact-label">Phone</span><span class="contact-value">+233 506 133 370</span></div>
+  </a>
 
+  <a class="contact-item" href="https://linkedin.com/in/YOUR_HANDLE" target="_blank">
+    <span class="contact-icon">💼</span>
+    <div><span class="contact-label">LinkedIn</span><span class="contact-value">linkedin.com/in/YOUR_HANDLE</span></div>
+  </a>
 
+  <a class="contact-item" href="https://github.com/Sannisaheedsanni" target="_blank">
+    <span class="contact-icon">🐙</span>
+    <div><span class="contact-label">GitHub</span><span class="contact-value">github.com/Sannisaheedsanni</span></div>
+  </a>
 
+  <a class="contact-item" href="YOUR_CV_LINK" target="_blank">
+    <span class="contact-icon">📄</span>
+    <div><span class="contact-label">Resume / CV</span><span class="contact-value">Download My CV</span></div>
+  </a>
 
+  <div class="contact-item">
+    <span class="contact-icon">📍</span>
+    <div><span class="contact-label">Location</span><span class="contact-value">Accra, Ghana</span></div>
+  </div>
+
+</div>
