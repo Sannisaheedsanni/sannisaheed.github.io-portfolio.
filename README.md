@@ -18,7 +18,7 @@ With a strong foundation in systems thinking and performance analysis, I go beyo
 
 ## Skills
 
-| icon | Tool |
+| Icon | Tool |
 |---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> | **PostgreSQL** |
 | <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30"/> | **Microsoft Excel** |
@@ -55,9 +55,6 @@ Analysed mobile money payment failures in Ghana — investigating failure patter
 
 <br/><br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0d9e6e?style=flat-square)
-![EDA](https://img.shields.io/badge/EDA-e67e22?style=flat-square)
 
 <br/><br/>
 
@@ -84,9 +81,6 @@ A comprehensive sales performance dashboard that visualises key metrics, tracks 
 
 <br/><br/>
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Dashboard](https://img.shields.io/badge/Dashboard-3b5bdb?style=flat-square)
 
 <br/><br/>
 
@@ -114,14 +108,13 @@ A comprehensive sales performance dashboard that visualises key metrics, tracks 
 
 ## Contact
 
-| | |
 |---|---|
 | 📧 Email | [Sannisaheedjunior18@gmail.com](mailto:Sannisaheedjunior18@gmail.com) |
 | 📞 Phone | +233 506 133 370 |
-| LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE) |
-| GitHub | [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni) |
+| 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE) |
+|  GitHub | [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni) |
 | 📄 CV | [Download My CV](YOUR_CV_LINK) |
-|  Location | Accra, Ghana |
+| 📍 Location | Accra, Ghana |
 
 ---
 
