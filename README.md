@@ -112,12 +112,12 @@ A comprehensive sales performance dashboard that visualises key metrics, tracks 
 
 ## 📬 Contact
 
-- 📧 **Email** — [Sannisaheedjunior18@gmail.com](mailto:Sannisaheedjunior18@gmail.com)
-- 📞 **Phone** — +233 506 133 370
-- 💼 **LinkedIn** — [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
-- 🐙 **GitHub** — [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni)
-- 📄 **CV** — [Download My CV](YOUR_CV_LINK)
-- 📍 **Location** — Accra, Ghana
+- 📧 Email — [Sannisaheedjunior18@gmail.com](mailto:Sannisaheedjunior18@gmail.com)
+- 📞 Phone — +233 506 133 370
+- 💼 LinkedIn— [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+- 🐙 GitHub — [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni)
+- 📄 CV — [Download My CV](YOUR_CV_LINK)
+- 📍 Location — Accra, Ghana
 ---
 
 <p align="center">Made  by <a href="https://github.com/Sannisaheedsanni">Sanni Saheed</a></p>
