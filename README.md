@@ -18,13 +18,15 @@ With a strong foundation in systems thinking and performance analysis, I go beyo
 
 ## Skills
 
-| Icon | Tool |
-|---|---|
+| &nbsp; | &nbsp; |
+|:---:|:---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> | **PostgreSQL** |
 | <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30"/> | **Microsoft Excel** |
 | <img src="https://img.icons8.com/color/48/google-sheets.png" width="30"/> | **Google Sheets** |
 | <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30"/> | **Tableau** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> | **GitHub** |
+
+
 
 **Concepts:**
 - Data Cleaning & Validation
@@ -106,16 +108,16 @@ A comprehensive sales performance dashboard that visualises key metrics, tracks 
 
 ---
 
-## Contact
 
-| | |
-|---|---|
-| 📧 Email | [Sannisaheedjunior18@gmail.com](mailto:Sannisaheedjunior18@gmail.com) |
-| 📞 Phone | +233 506 133 370 |
-| 💼 LinkedIn | [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE) |
-|  GitHub | [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni) |
-| 📄 CV | [Download My CV](YOUR_CV_LINK) |
-| 📍 Location | Accra, Ghana |
+
+## 📬 Contact
+
+- 📧 **Email** — [Sannisaheedjunior18@gmail.com](mailto:Sannisaheedjunior18@gmail.com)
+- 📞 **Phone** — +233 506 133 370
+- 💼 **LinkedIn** — [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+- 🐙 **GitHub** — [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni)
+- 📄 **CV** — [Download My CV](YOUR_CV_LINK)
+- 📍 **Location** — Accra, Ghana
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/Sannisaheedsanni">Sanni Saheed</a></p>
+<p align="center">Made  by <a href="https://github.com/Sannisaheedsanni">Sanni Saheed</a></p>
