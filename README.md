@@ -48,7 +48,7 @@ With a strong foundation in systems thinking and performance analysis, I go beyo
 
 <!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to repo -->
 <a href="https://github.com/Sannisaheedsanni/Mobile-Money-Payment-Failure-Analysis-PayFlow-GH">
-<img src="YOUR_SCREENSHOT_URL" width="100%" alt="PayFlow GH"/>
+<img src="Sales Dashboard (6).png" width="100%" alt="PayFlow GH"/>
 </a>
 
 <br/><br/>
@@ -74,7 +74,7 @@ Analysed mobile money payment failures in Ghana — investigating failure patter
 
 <!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to repo -->
 <a href="https://github.com/Sannisaheedsanni/Sales-Dashboard-Analysis">
-<img src="YOUR_SCREENSHOT_URL" width="100%" alt="Sales Dashboard"/>
+<img src="ChatGPT Image Feb 25, 2026, 12_27_48 PM.png" width="100%" alt="Sales Dashboard"/>
 </a>
 
 <br/><br/>
@@ -103,8 +103,8 @@ A comprehensive sales performance dashboard that visualises key metrics, tracks 
 
 | Certificate | Issuer | Link |
 |---|---|---|
-| Intermediate SQL Certification | HackerRank | [View Certificate](YOUR_HACKERRANK_LINK) |
-| SQL Association Track Course | DataCamp | [View Certificate](YOUR_DATACAMP_LINK) |
+| Intermediate SQL Certification | HackerRank | [View Certificate](hackerrank.png) |
+| SQL Association Track Course | DataCamp | [View Certificate](certificate of acc data.pdf) |
 
 ---
 
