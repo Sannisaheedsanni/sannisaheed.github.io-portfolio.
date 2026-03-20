@@ -48,7 +48,7 @@ With a strong foundation in systems thinking and performance analysis, I go beyo
 
 <!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to repo -->
 <a href="https://github.com/Sannisaheedsanni/Mobile-Money-Payment-Failure-Analysis-PayFlow-GH">
-<img src="Sales Dashboard (6).png" width="100%" alt="PayFlow GH"/>
+<img src="ChatGPT Image Feb 25, 2026, 12_27_48 PM.png" width="100%" alt="PayFlow GH"/>
 </a>
 
 <br/><br/>
@@ -74,7 +74,7 @@ Analysed mobile money payment failures in Ghana — investigating failure patter
 
 <!-- Replace YOUR_SCREENSHOT_URL after uploading screenshot to repo -->
 <a href="https://github.com/Sannisaheedsanni/Sales-Dashboard-Analysis">
-<img src="ChatGPT Image Feb 25, 2026, 12_27_48 PM.png" width="100%" alt="Sales Dashboard"/>
+<img src="Sales Dashboard (6).png" width="100%" alt="Sales Dashboard"/>
 </a>
 
 <br/><br/>
@@ -112,7 +112,7 @@ A comprehensive sales performance dashboard that visualises key metrics, tracks 
 
 ## 📬 Contact
 
-- 📧 Email — [Sannisaheedjunior18@gmail.com](mailto:Sannisaheedjunior18@gmail.com)
+- 📧 Email — [Sannisaheedjunior18@gmail.com](www.linkedin.com/in/sanni-saheed-sanni)
 - 📞 Phone — +233 506 133 370
 - 💼 LinkedIn— [Connect on LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
 - 🐙 GitHub — [github.com/Sannisaheedsanni](https://github.com/Sannisaheedsanni)
